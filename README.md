@@ -5,4 +5,5 @@ Factorial : https://github.com/vikassappadlavar2005-svg/j2ee/blob/master/factori
 PrimeNumber : https://github.com/vikassappadlavar2005-svg/j2ee/blob/master/prime0.png
             : https://github.com/vikassappadlavar2005-svg/j2ee/blob/master/7bprimenumber.png
 
-CookieServlet : https://github.com/vikassappadlavar2005-svg/j2ee/blob/master/welcomebackyourname.png            
+CookieServlet : https://github.com/vikassappadlavar2005-svg/j2ee/blob/master/welcomebackyourname.png 
+              : https://github.com/vikassappadlavar2005-svg/j2ee/blob/master/welcomebackyourname2.png
